@@ -1,8 +1,7 @@
 # Pomodoro React ⏱️
 
-````markdown
 Um aplicativo Pomodoro feito com **React + TypeScript**, ideal para melhorar seu foco e produtividade.
-````
+
 <img src=./src/assets/pomodoro.png
          alt="my banner"
          style="width: 100%; object-fit: cover; object-position: center;"
