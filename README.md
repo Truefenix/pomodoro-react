@@ -3,9 +3,10 @@
 ````markdown
 Um aplicativo Pomodoro feito com **React + TypeScript**, ideal para melhorar seu foco e produtividade.
 ````
-
-![Preview do Projeto](./src/assets/pomodoro.png)
-
+<img src=./src/assets/pomodoro.png
+         alt="my banner"
+         style="width: 100%; object-fit: cover; object-position: center;"
+/>
 ## 🧠 Sobre o Projeto
 
 Este projeto é uma aplicação do método Pomodoro, onde você alterna entre períodos de foco e descanso. O app conta com:
@@ -18,8 +19,6 @@ Este projeto é uma aplicação do método Pomodoro, onde você alterna entre pe
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Vite](https://vitejs.dev/) (opcional, se tiver usado)
-- [CSS Modules / Styled Components / Tailwind] (especifique se tiver usado)
 
 ## 🛠️ Como Rodar o Projeto
 
