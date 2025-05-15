@@ -2,10 +2,14 @@
 
 Um aplicativo Pomodoro feito com **React + TypeScript**, ideal para melhorar seu foco e produtividade.
 
-<img src=./src/assets/pomodoro.png
-         alt="my banner"
-         style="width: 100%; object-fit: cover; object-position: center;"
-/>
+<p align="center">
+    <img
+      src="./src/assets/pomodoro.png"
+      alt="Truefenix Banner"
+      style="width: 100%; max-width: 900px; object-fit: cover; object-position: center;"
+    />
+  </img>
+</p>
 ## 🧠 Sobre o Projeto
 
 Este projeto é uma aplicação do método Pomodoro, onde você alterna entre períodos de foco e descanso. O app conta com:
